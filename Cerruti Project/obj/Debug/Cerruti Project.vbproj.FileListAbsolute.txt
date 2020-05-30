@@ -1,0 +1,33 @@
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.vbprojAssemblyReference.cache
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.cache
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.exe
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.xml
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.pdb
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.exe
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.pdb
+C:\Users\Topher\Desktop\School\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\bin\Debug\Cerruti Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.vbprojAssemblyReference.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\Cerruti Solution - modified\Cerruti Project\obj\Debug\Cerruti Project.pdb
